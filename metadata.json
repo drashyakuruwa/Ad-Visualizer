@@ -1,0 +1,5 @@
+{
+  "name": "Ad Visualizer Beta",
+  "description": "Upload a product image and visualize it on different ad surfaces like billboards, newspapers, and more using the Gemini API.",
+  "requestFramePermissions": []
+}
